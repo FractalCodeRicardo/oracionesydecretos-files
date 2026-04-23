@@ -1,0 +1,11 @@
+{
+  items = [
+    {
+      id = "01-saintgermain",
+      name = "Oracion Saint Germain",
+      voice = "01-saint-germain.mp3",
+      text = "01-saint-germain.txt",
+      delay = 80
+    }
+  ]
+}
