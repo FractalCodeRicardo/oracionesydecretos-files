@@ -3,8 +3,10 @@
     {
       "id" : "01-saintgermain",
       "name" : "Oracion Saint Germain",
-      "voice" : "01-saint-germain.mp3",
-      "text" : "01-saint-germain.txt",
+      "description": "YO SOY la resurrección y la vida. YO SOY el camino, la verdad y la vida",
+      "voiceFile" : "01-saint-germain.mp3",
+      "textFile" : "01-saint-germain.txt",
+      "imageFile": "01-saint-germain.jgp",
       "delay" : 80
     }
   ]
