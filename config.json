@@ -1,13 +1,31 @@
 {
-  "items" : [
+  "items": [
     {
-      "id" : "01-saintgermain",
-      "name" : "Oracion Saint Germain",
+      "id": "01-saint-germain",
+      "name": "Oración Saint Germain",
       "description": "YO SOY la resurrección y la vida. YO SOY el camino, la verdad y la vida",
-      "voiceFile" : "01-saint-germain.mp3",
-      "textFile" : "01-saint-germain.txt",
+      "voiceFile": "01-saint-germain.mp3",
+      "textFile": "01-saint-germain.txt",
       "imageFile": "01-saint-germain.jpg",
-      "delay" : 80
+      "delay": 80
+    },
+    {
+      "id": "02-san-judas",
+      "name": "Oración San Judas",
+      "description": "Glorioso San Judas Tadeo, apóstol amado y patrono de las causas imposibles",
+      "voiceFile": "02-san-judas.mp3",
+      "textFile": "02-san-judas.txt",
+      "imageFile": "02-san-judas.jpg",
+      "delay": 80
+    },
+    {
+      "id": "03-san-miguel",
+      "name": "Oración San Miguel",
+      "description": "San Miguel Arcángel, defiéndenos en la batalla. Sé nuestro amparo contra la perversidad y asechanzas del demonio.",
+      "voiceFile": "03-san-miguel.mp3",
+      "textFile": "03-san-miguel.txt",
+      "imageFile": "03-san-miguel.jpg",
+      "delay": 80
     }
   ]
 }
