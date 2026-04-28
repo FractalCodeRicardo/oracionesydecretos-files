@@ -7,7 +7,8 @@
       "voiceFile": "01-saint-germain.mp3",
       "textFile": "01-saint-germain.txt",
       "imageFile": "01-saint-germain.jpg",
-      "delay": 80
+      "delay": 80,
+      "enabled": false
     },
     {
       "id": "02-san-judas",
@@ -16,7 +17,8 @@
       "voiceFile": "02-san-judas.mp3",
       "textFile": "02-san-judas.txt",
       "imageFile": "02-san-judas.jpg",
-      "delay": 80
+      "delay": 80,
+      "enabled": false
     },
     {
       "id": "03-san-miguel",
@@ -25,7 +27,8 @@
       "voiceFile": "03-san-miguel.mp3",
       "textFile": "03-san-miguel.txt",
       "imageFile": "03-san-miguel.jpg",
-      "delay": 80
+      "delay": 80,
+      "enabled": false
     }
   ]
 }
