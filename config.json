@@ -18,7 +18,8 @@
       "textFile": "02-san-judas.txt",
       "imageFile": "02-san-judas.jpg",
       "delay": 80,
-      "enabled": false
+      "enabled": true,
+      "order": 1
     },
     {
       "id": "03-san-miguel",
@@ -28,7 +29,31 @@
       "textFile": "03-san-miguel.txt",
       "imageFile": "03-san-miguel.jpg",
       "delay": 80,
-      "enabled": false
+      "enabled": true,
+      "order": 2
+    },
+    {
+      "id": "04-san-rafael",
+      "name": "Oración San Rafael",
+      "description": "Glorioso Arcángel San Rafael, medicina de Dios, te pido que sanes todas mis dolencias",
+      "voiceFile": "04-san-rafael.mp3",
+      "textFile": "04-san-rafael.txt",
+      "imageFile": "04-san-rafael.jpg",
+      "delay": 80,
+      "enabled": true,
+      "order": 3
+    },
+    {
+      "id": "05-san-pancracio",
+      "name": "Oración San Pancracio",
+      "description": "San Pancracio glorioso, protector de quienes te invocan, escucha mis súplicas",
+      "voiceFile": "05-san-pancracio.mp3",
+      "textFile": "05-san-pancracio.txt",
+      "imageFile": "05-san-pancracio.jpg",
+      "delay": 80,
+      "enabled": true,
+      "order": 4
     }
+
   ]
 }
